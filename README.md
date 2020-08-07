@@ -3,3 +3,6 @@
 - 🎓 Getting ready for my AWS Certified Developer - Associate Certification 
 - 👯 I’m looking to collaborate on *NodeJs* and *ReactJs*
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/philipsenger/) via inMail
+
+<!--START_SECTION:endorsements-->
+<!--END_SECTION:endorsements-->
