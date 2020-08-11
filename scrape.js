@@ -72,14 +72,15 @@ const generateStuffInsideFences = function generateStuffInsideFences(data) {
 
     const listWithFences = `${START_COMMENT}
 ### Skills & Endorsements
-  
-I would like to add you to my professional network on the GITHUB.
 
   <ul>
   ${renderedList}
   </ul>
-  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill</a>
-  ${END_COMMENT}`;
+  
+  <div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment.</div>
+  <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Or add new skill by raising an issue</a>
+  
+${END_COMMENT}`;
     return listWithFences
 };
 
