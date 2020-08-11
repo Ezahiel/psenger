@@ -21,8 +21,6 @@ const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`);
 // console.log({ REPO_DETAILS });
 // console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
 
-console.log('process.env=', JSON.stringify(process.env, null, 4));
-
 const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 (async function main() {
     const readme = await getReadme(octokit);
