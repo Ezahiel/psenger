@@ -21,3 +21,6 @@ I would like to add you to my professional network on the GITHUB.
 
 [![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Github Language Activity
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psenger&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
