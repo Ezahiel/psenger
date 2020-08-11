@@ -13,8 +13,8 @@ I would like to add you to my professional network on the GITHUB.
 
   <ul>
   <li><a href="https://github.com/psenger/psenger/issues/1">NodeJS</a>: </li>
-  <li><a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
+  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill</a>
   <!--END_SECTION:endorsements-->
 
 ### Github Activity
