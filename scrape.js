@@ -22,6 +22,7 @@ const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`);
 // console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
 
 const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
+
 (async function main() {
     const readme = await getReadme(octokit);
     let oldFences = listReg.exec(readme.content)
@@ -48,6 +49,7 @@ const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 })();
 
 function generateStuffInsideFences(data) {
+    console.log('data=', JSON.stringify(data, null, 4));
     const renderedList = data
         .map(
             (x) =>
@@ -59,9 +61,9 @@ function generateStuffInsideFences(data) {
                     // Remove leading spaces and repeated CR/LF
                     .replace(/([\r\n]+ +)+/gm, '')}</a>: ${x.reactions
                     .map(
-                        (reaction) => `<img src=${reaction.user.avatar_url}&s=20 height=20 />` // use github image api s=20 to size smaller
+                        (reaction) => `<img alt="user avatar" src=${reaction.user.avatar_url}&s=20 height=20 />`
                     )
-                    .join("")}</li>`
+                    .join(" ")}</li>`
         )
         .join("\n");
 
@@ -72,8 +74,8 @@ I would like to add you to my professional network on the GITHUB.
 
   <ul>
   ${renderedList}
-  <li><a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
+  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill</a>
   ${END_COMMENT}`;
     return listWithFences
 }
