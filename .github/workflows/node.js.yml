@@ -26,4 +26,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install
-      - run: npm run scrape --if-present
+      - name: run scrape
+        run: npm run scrape --if-present
+        env:
+          ENV_GITHUB_TOKEN: ${{ secrets.ENV_GITHUB_TOKEN }}
