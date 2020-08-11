@@ -14,6 +14,8 @@ const REPO_DETAILS = {
     repo: process.env.GITHUB_REPOSITORY_OWNER,
 };
 
+console.log('REPO_DETAILS=', JSON.stringify(REPO_DETAILS, null, 4));
+
 const START_COMMENT = "<!--START_SECTION:endorsements-->";
 const END_COMMENT = "<!--END_SECTION:endorsements-->";
 const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`);
