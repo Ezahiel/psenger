@@ -15,7 +15,7 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 <li><a href="https://github.com/psenger/psenger/issues/2">NodeJS</a>: </li>
 </ul>
 
-<div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment. Alternatively, <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">add new skill by raising an issue</a>.</div>
+<div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment. Alternatively, <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">add a new skill by raising a github "Endorse" issue</a>.</div>
 
 <!--END_SECTION:endorsements-->
 
