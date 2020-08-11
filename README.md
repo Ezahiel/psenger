@@ -17,5 +17,7 @@ I would like to add you to my professional network on the GITHUB.
   </ul>
   <!--END_SECTION:endorsements-->
 
+### Github Activity
+
 [![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger)](https://github.com/anuraghazra/github-readme-stats)
 
