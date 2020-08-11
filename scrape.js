@@ -78,7 +78,7 @@ const generateStuffInsideFences = function generateStuffInsideFences(data) {
   </ul>
   
   <div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment.</div>
-  <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Or add new skill by raising an issue</a>
+  <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Add new skill by raising an issue</a>
   
 ${END_COMMENT}`;
     return listWithFences
