@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-> endorsement here!
+> compose your endorsement here!
