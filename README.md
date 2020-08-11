@@ -7,4 +7,17 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 - 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/philipsenger/)
 
 <!--START_SECTION:endorsements-->
-<!--END_SECTION:endorsements-->
+### Skills & Endorsements
+  
+I would like to add you to my professional network on the GITHUB.
+
+  <ul>
+  
+  <li><a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
+  </ul>
+  <!--END_SECTION:endorsements-->
+
+### Github Activity
+
+[![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
