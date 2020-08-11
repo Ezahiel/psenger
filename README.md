@@ -16,3 +16,6 @@ I would like to add you to my professional network on the GITHUB.
   <li><a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   <!--END_SECTION:endorsements-->
+
+[![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger)](https://github.com/anuraghazra/github-readme-stats)
+
