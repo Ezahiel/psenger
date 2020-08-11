@@ -10,11 +10,11 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 ### Skills & Endorsements
 
   <ul>
-  
+  <li><a href="https://github.com/psenger/psenger/issues/2">NodeJS</a>: </li>
   </ul>
   
-  <div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment.</div>
-  <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Add new skill by raising an issue</a>
+  <div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment or <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">add new skill by raising an issue</a>.</div>
+  
   
 <!--END_SECTION:endorsements-->
 
