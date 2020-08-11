@@ -14,7 +14,10 @@ I would like to add you to my professional network on the GITHUB.
   <ul>
   
   </ul>
-  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill</a>
+  
+  <small>Endorse me by clicking on a skill and adding a reaction and an optional comment.</small>
+  
+  <small><a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Or add a new skill</a></small>
   <!--END_SECTION:endorsements-->
 
 ### Github Activity
