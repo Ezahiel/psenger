@@ -14,14 +14,14 @@ const REPO_DETAILS = {
     repo: process.env.GITHUB_REPOSITORY_OWNER,
 };
 
-console.log('REPO_DETAILS=', JSON.stringify(REPO_DETAILS, null, 4));
-
 const START_COMMENT = "<!--START_SECTION:endorsements-->";
 const END_COMMENT = "<!--END_SECTION:endorsements-->";
 const listReg = new RegExp(`${START_COMMENT}[\\s\\S]+${END_COMMENT}`);
 
 // console.log({ REPO_DETAILS });
 // console.log("ghtoken", process.env.ENV_GITHUB_TOKEN);
+
+console.log('process.env=', JSON.stringify(process.env, null, 4));
 
 const octokit = new Octokit({ auth: `token ${process.env.ENV_GITHUB_TOKEN}` });
 (async function main() {
