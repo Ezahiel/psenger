@@ -19,5 +19,5 @@ I would like to add you to my professional network on the GITHUB.
 
 ### Github Activity
 
-[![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger)](https://github.com/anuraghazra/github-readme-stats)
+[![Philip Senger github stats](https://github-readme-stats.vercel.app/api?username=psenger&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
