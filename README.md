@@ -8,14 +8,13 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 
 <!--START_SECTION:endorsements-->
 ### Skills & Endorsements
+  
+I would like to add you to my professional network on the GITHUB.
 
   <ul>
-  <li><a href="https://github.com/psenger/psenger/issues/1">NodeJS</a>: <img alt="user avatar" src=https://avatars2.githubusercontent.com/u/211395?v=4&s=20 height=20 /></li>
+  
   </ul>
-  
-  Endorse me by clicking on a skill and adding a reaction and an optional comment.
-  
-  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill not listed</a>
+  <a href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse me for a new skill</a>
   <!--END_SECTION:endorsements-->
 
 ### Github Activity
