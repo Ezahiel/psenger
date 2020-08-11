@@ -66,9 +66,9 @@ function generateStuffInsideFences(data) {
         .join("\n");
 
     const listWithFences = `${START_COMMENT}
-  ### Skills & Endorsements
+### Skills & Endorsements
   
-  I would like to add you to my professional network on the GITHUB.
+I would like to add you to my professional network on the GITHUB.
 
   <ul>
   ${renderedList}

@@ -1,9 +1,7 @@
-- 😀  I'm a software developer with 25 years of experience. I started with Visual Basic, Perl. I
- migrated to Java, Spring, JavaScript, Ruby, Groovy, and ExtJS. Now I focus on JavaScript, React, Node, Java and GoLang. 
-- 🔭  I’m currently working on several projects for major Australian retailer in *NodeJs*, *Java
-*, *Angular*, *AWS*, *Azure*, and *Apigee* for [Horizon X](https://horizonx.com.au/).
-- 🌱  I’m an avid learner and currently engaged in several classes at PluralSight. Im focused on
- expanding my knowledge of *Scala*, *AI*, and *Spark*.
+I'm a software developer with 25 years of experience but still learning 😃. I started my career with C, Visual Basic, and Perl. I self-taught myself Java and then migrated to  Spring, JavaScript, Ruby, Groovy, and ExtJS. I've had the satisfaction of working for both large companies and startups. Now I focus on JavaScript, React, Node, Java, and GoLang sharing my enthusiasm with others, mentoring, and solving business problems.
+
+- 🔭  I’m currently working on several projects for major Australian retailer in *NodeJs*, *Java*, *Angular*, *AWS*, *Azure*, and *Apigee* for [Horizon X](https://horizonx.com.au/).
+- 🌱  I’m an avid learner and currently engaged in several classes at PluralSight. Im focused on expanding my knowledge of *Scala*, *AI*, and *Spark*.
 - 🎓  Getting ready for my AWS Certified Developer - Associate Certification 
 - 👯  I’m looking to collaborate on *NodeJs* and *ReactJs*
 - 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/philipsenger/)
