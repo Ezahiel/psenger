@@ -4,21 +4,25 @@
 name: Scrape Endorsements
 
 on:
-  workflow_dispatch:
-    # https://docs.github.com/en/rest/reference/actions#create-a-workflow-dispatch-event
-  schedule:
-  - cron: "0 0 * * *"
+  push:
+    branches:
+      - master
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
     steps:
-    - uses: actions/checkout@v2
-    - uses: franzdiebold/github-env-vars-action@v1.0.0
-      # https://github.com/marketplace/actions/github-environment-variables-action
-    - name: Use Node.js
-      uses: actions/setup-node@v1
-#    - run: npm ci
-    - run: npm run scrape --if-present
-      env:
-          ENV_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - uses: franzdiebold/github-env-vars-action@v1.0.0
+        # https://github.com/marketplace/actions/github-environment-variables-action
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm run scrape --if-present
