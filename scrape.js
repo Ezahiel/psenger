@@ -73,11 +73,11 @@ const generateStuffInsideFences = function generateStuffInsideFences(data) {
     return `${START_COMMENT}
 ### Skills & Endorsements
 
-    <ul>
-    ${renderedList}
-    </ul>
-    
-    <div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment. Alternatively, <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">add new skill by raising an issue</a>.</div>
+<ul>
+${renderedList}
+</ul>
+
+<div style="font-size: 15px;">Endorse me by clicking on a skill and adding a reaction and an optional comment. Alternatively, <a style="font-size: 15px;" href="https://github.com/psenger/psenger/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">add new skill by raising an issue</a>.</div>
 
 ${END_COMMENT}`;
 };
