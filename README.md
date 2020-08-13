@@ -10,6 +10,9 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 ### Skills & Endorsements
 
 <ul>
+<li><a href="https://github.com/psenger/psenger/issues/10">API</a>: </li>
+<li><a href="https://github.com/psenger/psenger/issues/9">Mentoring</a>: </li>
+<li><a href="https://github.com/psenger/psenger/issues/8">Leadership</a>: </li>
 <li><a href="https://github.com/psenger/psenger/issues/7">JavaScript</a>: </li>
 <li><a href="https://github.com/psenger/psenger/issues/6">HTML</a>: </li>
 <li><a href="https://github.com/psenger/psenger/issues/5">Internet Security</a>: </li>
