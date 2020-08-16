@@ -3,8 +3,22 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 - 🔭  I’m currently working on several projects for major Australian retailer in *NodeJs*, *Java*, *Angular*, *AWS*, *Azure*, and *Apigee* for [Horizon X](https://horizonx.com.au/).
 - 🌱  I’m an avid learner and currently engaged in several classes at PluralSight. Im focused on expanding my knowledge of *Scala*, *AI*, and *Spark*.
 - 🎓  Getting ready for my AWS Certified Developer - Associate Certification 
-- 👯  I’m looking to collaborate on *NodeJs* and *ReactJs*
-- 📫  Reach me on [LinkedIn](https://www.linkedin.com/in/philipsenger/)
+- 👯  I’m looking to collaborate on *NodeJs* and *ReactJs* 
+
+### Connect with me
+
+<!-- From: https://github.com/simple-icons/simple-icons -->
+[<img alt="LinkedIn" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philipsenger/)
+[<img alt="Twitter" height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/@PSengerDownUndr)
+
+### Languages
+
+<img alt="JavaScript" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img alt="Html" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img alt="NodeJS" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img alt="React" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img alt="Angular" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
+<img alt="Java" height="20" width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 
 <!--START_SECTION:endorsements-->
 ### Skills & Endorsements
