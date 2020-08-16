@@ -11,6 +11,9 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 [<img alt="LinkedIn" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philipsenger/)
 [<img alt="Twitter" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/@PSengerDownUndr)
 
+![GitHub followers](https://img.shields.io/github/followers/psenger?label=Followers&style=plastic)
+
+
 ### Languages
 
 <div>
