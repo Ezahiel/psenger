@@ -66,3 +66,5 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 ### Language Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psenger)](https://github.com/anuraghazra/github-readme-stats)
+
+<script>console.log('hit');</script>
