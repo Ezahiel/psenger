@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: franzdiebold/github-env-vars-action@v1.0.0
+      - uses: FranzDiebold/github-env-vars-action@v1.2.1
         # https://github.com/marketplace/actions/github-environment-variables-action
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
