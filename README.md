@@ -1,7 +1,7 @@
-I'm a software developer with 25 years of experience but still learning 😃. I started my career with C, Visual Basic, and Perl. I self-taught myself Java and then migrated to  Spring, JavaScript, Ruby, Groovy, and ExtJS. I've had the satisfaction of working for both large companies and startups. Now I focus on JavaScript, React, Node, Java, and GoLang sharing my enthusiasm with others, mentoring, and solving business problems.
+I'm a software developer with 25 years of experience but still learning 😃. I started my career with C, Visual Basic, and Perl. I self-taught myself Java and then migrated to Spring, JavaScript, Ruby, Groovy, and ExtJS. I've had the satisfaction of working for both large companies and startups. Now I focus on JavaScript, React, Node, Java, and GoLang sharing my enthusiasm with others, mentoring, and solving business problems.
 
-- 🔭  I’m currently working on several projects for major Australian retailer in *NodeJs*, *Java*, *Angular*, *AWS*, *Azure*, and *Apigee* for [Horizon X](https://horizonx.com.au/).
-- 🌱  I’m an avid learner and currently engaged in several classes at PluralSight. Im focused on expanding my knowledge of *Scala*, *AI*, and *Spark*.
+- 🔭  I’m currently an independent contractor on several projects in *NodeJs*, *Java*, *Angular*, *AWS*, *Azure*, and *Apigee*
+- 🌱  I’m an avid learner and actively engaged in several classes at PluralSight. I'm focused on expanding my knowledge of *Scala*, *AI*, and *Spark*.
 - 🎓  Getting ready for my AWS Certified Developer - Associate Certification 
 - 👯  I’m looking to collaborate on *NodeJs* and *ReactJs* 
 
