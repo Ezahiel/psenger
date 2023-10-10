@@ -14,6 +14,7 @@ I'm a software developer with 25 years of experience but still learning 😃. I 
 
 ![GitHub followers](https://img.shields.io/github/followers/psenger?label=Followers&style=plastic)
 
+<a href="https://app.daily.dev/philipasenger"><img src="https://api.daily.dev/devcards/8092c49ce298428d93f0a758bbbed853.png?r=x91" width="400" alt="Philip A Senger's Dev Card"/></a>
 
 ### Languages and Frameworks
 
